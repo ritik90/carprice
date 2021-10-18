@@ -1,1 +1,3 @@
-# carprice
+# Car-Price-Prediction
+we tried predicting the car price using the various parameters that were provided in the data about the car. We build machine learning  models to predict car prices and saw that machine learning-based models performed well . we are using various features to calculate the resale value of the car like year it was bought, kms Drived, showroom price, fuel tye and various others. our model showed a nice results . Random forest method for linear regression was used with hyper parameter tuing, final results MAE = .89 and MSE = 4.03.
+First used flash and deployed on a local server then, use heroku to make our project live. 
